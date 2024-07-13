@@ -1,1 +1,2 @@
 # MINI-PROJECT-QR-CODE-GENERATOR
+# QR-Code-Generator
